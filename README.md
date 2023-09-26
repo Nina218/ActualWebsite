@@ -22,7 +22,7 @@ This is Eli! He's a little over a year old. We found him in our backyard so I ha
   When I tried to meet him for the first time, he bit me. My dad was very worried about rabies, but it was fine!
   I ended up buying an actual bag of cat food becuase I felt bad giving him our leftovers. I also sacrificed my stuffed animals, but he cuddled up to them instantly so it was worth it.
   <br>
-<img src="https://i.imgur.com/IBEYq45.jpg" alt= "hissy eli"/
+<img src="https://i.imgur.com/IBEYq45.jpg" alt= "hissy eli"/>
  <img src="https://i.imgur.com/frlJEji.jpg" alt= "emma and eli"/>
 </p>
 <p>
