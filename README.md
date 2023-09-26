@@ -13,15 +13,16 @@
     </ul>
   </nav>
 <p>
+  <img src="https://i.imgur.com/UwsTVIX.jpg" alt="cat photos1" width="450" height="600"/> 
+  <br>
 This is Eli! He's a little over a year old. We found him in our backyard so I have no clue what his birthday is, but we estimate it's somewhere around June. Thus, his honorary birthday is June 7th.
-  <br /><br /> 
-  <img src="https://i.imgur.com/UwsTVIX.jpg" alt="cat photos1"/>
-  <br /><br /> 
+  <br><br> 
   When we first met him, my dad fed him pumpkin bread. It probably isn't very good for cats, but he ate it, and he stuck around.
   Truthfully, I have no idea how to tell a cat's gender, so I gave him a very gender-neutral name. People keep pronouncing it 'E-lie' instead of 'Ellie' but oh well.
   When I tried to meet him for the first time, he bit me. My dad was very worried about rabies, but it was fine!
   I ended up buying an actual bag of cat food becuase I felt bad giving him our leftovers. I also sacrificed my stuffed animals, but he cuddled up to them instantly so it was worth it.
-  <br /><br /> 
+  <br>
+<img src="https://i.imgur.com/IBEYq45.jpg" alt= "hissy eli"/
  <img src="https://i.imgur.com/frlJEji.jpg" alt= "emma and eli"/>
 </p>
 <p>
