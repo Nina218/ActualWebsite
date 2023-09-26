@@ -30,7 +30,7 @@ This is Eli! He's a little over a year old. We found him in our backyard so I ha
 </p>
   <p> Still, if you ever find yourself a stray, the following are several websites you can attempt to use.
     <ul>
-      <li> https://www.tinypawsandwhiskers.com/home </li>
+      <li> <a href="https://www.tinypawsandwhiskers.com/home" target="_blank">Tiny Paws and Whiskers</a> </li>
     </ul>
 <p>
   Eli hates baths. Since I suspected this, I used a dry wash shampoo instead because I was very sure he had fleas. I was right, but he hated the shampoo anyways. The first time I gave him a bath after my mom took him in, he screamed like we were murdering him. Eventually, he stopped, but I think it was because he realized he was a very small kittne and had no chance of escape. When I tried to bathe him this year, it did not go so well. Cats are very hard to hold on to when they don't want to be, and even though he rarely bites or claws hard enough to do actual damage, he was very mad at me for the rest of the day.
