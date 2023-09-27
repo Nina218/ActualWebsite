@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 </head>
@@ -15,6 +14,7 @@
 <p>
   <img src="https://i.imgur.com/UwsTVIX.jpg" alt="cat photos1" width="450" height="600"/> 
   <br>
+      <div id="introduction">
 This is Eli! He's a little over a year old. We found him in our backyard so I have no clue what his birthday is, but we estimate it's somewhere around June. Thus, his honorary birthday is June 7th.
   <br><br> 
   When we first met him, my dad fed him pumpkin bread. It probably isn't very good for cats, but he ate it, and he stuck around.
