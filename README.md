@@ -48,6 +48,6 @@ This is Eli! He's a little over a year old. We found him in our backyard so I ha
 <div id="media">
 <h2>Media</h2>
 <video src="" height="240" width="320" controls>Video not supported</video>
-  <p><a href="https://edu.google.com/intl/ALL_us/workspace-for-education/classroom/" target="_blank">Link</a></p>
+  <p><a href="(https://youtube.com/shorts/WNq0s8yUxPg?feature=share)https://youtube.com/shorts/WNq0s8yUxPg?feature=share" target="_blank">Link</a></p>
 </body>
 </div>
