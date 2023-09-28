@@ -45,7 +45,7 @@ This is Eli! He's a little over a year old. We found him in our backyard so I ha
         <p> Eli napping.</p>
        <img src="https://i.imgur.com/frlJEji.jpg" alt= "emma and eli" width="400" height="500"/>
        <p> Eli and another cat. </p>
-       <img src="https://i.imgur.com/UpyPdKy.jpg" alt=cat photos2/ width="300" height="400"/>
+       <img src="https://i.imgur.com/UpyPdKy.jpg" alt="cat photos2" width="300" height="400"/>
        <p> Eli attacking the cars. </p>
 </body>
 </div>
